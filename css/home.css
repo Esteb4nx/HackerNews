@@ -1,0 +1,21 @@
+.suscripcion *{
+    font-size: 18px;
+}
+.suscripcion input{
+    width: 280px;
+    padding: 4px;
+}
+
+.suscripcion button{
+    color: white;
+    padding: 6px;
+    background-color: rgb(46, 189, 194);
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+
+}
+
+.suscripcion button:hover{
+    background-color: rgb(37, 161, 165);
+}
