@@ -1,0 +1,31 @@
+.form-container{
+    width: 540px;
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+}
+
+#contact-title{
+    font-size: 20px;
+}
+
+.form-container button{
+    color: white;
+    padding: 6px;
+    background-color: rgb(46, 189, 194);
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.form-container button:hover{
+    background-color: rgb(37, 161, 165);
+}
+
+.form-container *{
+    margin: 4px;
+}
+
+.form-container input{
+    font-size: 18px;
+}

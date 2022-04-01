@@ -19,3 +19,25 @@
 .suscripcion button:hover{
     background-color: rgb(37, 161, 165);
 }
+
+.articulos{
+    margin-top: 12px;
+}
+.articulos article{
+    margin: 12px 0px;
+    border: 1px solid black;
+    padding: 8px;
+    width: 540px;
+    font-size: 18px;
+}
+
+.article-header{
+    margin-bottom: 8px;
+}
+
+.footer-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
